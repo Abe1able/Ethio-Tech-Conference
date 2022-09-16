@@ -30,7 +30,7 @@ Install all the dependencies by running the command npm -i
 
 ## Live Demo 
 
-[Demo](https://abe1able.github.io/Personal-Portfolio/)
+[Demo](https://abe1able.github.io/Ethio-Tech-Conference/index.html)
 
 ## Authors
 
