@@ -94,7 +94,7 @@ body {
   margin: 0;
 }
 
-.headline-title-text h2 {
+.headline-title-text h1 {
   background: -webkit-linear-gradient(#d52b1a, #ec5242);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -426,7 +426,7 @@ section.main-program {
     font-size: 35px;
   }
 
-  .headline-title-text h2 {
+  .headline-title-text h1 {
     font-size: 50px;
   }
 

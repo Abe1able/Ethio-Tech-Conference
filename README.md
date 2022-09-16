@@ -35,7 +35,7 @@ Install all the dependencies by running the command npm -i
 ## Authors
 
 
-👤 **Author**
+👤 **Abel Seifu**
 
 
 - GitHub: [@abe1able](https://github.com/abe1able)
