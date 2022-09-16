@@ -81,7 +81,7 @@ body {
 }
 
 .headline-section {
-  background: url("../Images/mobile_welcome_bg.png");
+  background: url("./Images/mobile_welcome_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px 15px 50px 15px;
@@ -215,7 +215,7 @@ section.main-program {
 }
 
 .speaker-catagories {
-  background: url("../Images/speaker-back.jpeg");
+  background: url("./Images/speaker-back.jpeg");
   background-repeat: no-repeat;
   background-size: 90px;
   display: flex;

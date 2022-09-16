@@ -12,7 +12,7 @@
 }
 
 .headline-section {
-  background: url("../Images/mobile_welcome_bg.png");
+  background: url("./Images/mobile_welcome_bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 50px 30px;
@@ -108,7 +108,7 @@
 }
 
 .past-conference-img-one {
-  background-image: url("../Images/Conference2020.jpg");
+  background-image: url("./Images/Conference2020.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -123,7 +123,7 @@
 }
 
 .past-conference-img-two {
-  background-image: url("../Images/Conference2021.jpg");
+  background-image: url("./Images/Conference2021.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
